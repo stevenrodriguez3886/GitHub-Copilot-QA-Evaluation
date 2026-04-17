@@ -76,15 +76,15 @@ CMakeFiles/case3_boost_baseline.dir/tests/case3_split/boost_split_test.cpp.o: CM
 CMakeFiles/case3_boost_baseline.dir/tests/case3_split/boost_split_test.cpp.o: /home/stevenrodriguez3886/copilot_evaluation/tests/case3_split/boost_split_test.cpp
 CMakeFiles/case3_boost_baseline.dir/tests/case3_split/boost_split_test.cpp.o: CMakeFiles/case3_boost_baseline.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/stevenrodriguez3886/copilot_evaluation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/case3_boost_baseline.dir/tests/case3_split/boost_split_test.cpp.o"
-	/usr/sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/case3_boost_baseline.dir/tests/case3_split/boost_split_test.cpp.o -MF CMakeFiles/case3_boost_baseline.dir/tests/case3_split/boost_split_test.cpp.o.d -o CMakeFiles/case3_boost_baseline.dir/tests/case3_split/boost_split_test.cpp.o -c /home/stevenrodriguez3886/copilot_evaluation/tests/case3_split/boost_split_test.cpp
+	/usr/sbin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/case3_boost_baseline.dir/tests/case3_split/boost_split_test.cpp.o -MF CMakeFiles/case3_boost_baseline.dir/tests/case3_split/boost_split_test.cpp.o.d -o CMakeFiles/case3_boost_baseline.dir/tests/case3_split/boost_split_test.cpp.o -c /home/stevenrodriguez3886/copilot_evaluation/tests/case3_split/boost_split_test.cpp
 
 CMakeFiles/case3_boost_baseline.dir/tests/case3_split/boost_split_test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/case3_boost_baseline.dir/tests/case3_split/boost_split_test.cpp.i"
-	/usr/sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/stevenrodriguez3886/copilot_evaluation/tests/case3_split/boost_split_test.cpp > CMakeFiles/case3_boost_baseline.dir/tests/case3_split/boost_split_test.cpp.i
+	/usr/sbin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/stevenrodriguez3886/copilot_evaluation/tests/case3_split/boost_split_test.cpp > CMakeFiles/case3_boost_baseline.dir/tests/case3_split/boost_split_test.cpp.i
 
 CMakeFiles/case3_boost_baseline.dir/tests/case3_split/boost_split_test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/case3_boost_baseline.dir/tests/case3_split/boost_split_test.cpp.s"
-	/usr/sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/stevenrodriguez3886/copilot_evaluation/tests/case3_split/boost_split_test.cpp -o CMakeFiles/case3_boost_baseline.dir/tests/case3_split/boost_split_test.cpp.s
+	/usr/sbin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/stevenrodriguez3886/copilot_evaluation/tests/case3_split/boost_split_test.cpp -o CMakeFiles/case3_boost_baseline.dir/tests/case3_split/boost_split_test.cpp.s
 
 # Object files for target case3_boost_baseline
 case3_boost_baseline_OBJECTS = \

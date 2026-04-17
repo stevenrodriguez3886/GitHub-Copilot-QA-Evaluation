@@ -1,1 +1,1 @@
-/usr/sbin/c++  --coverage -O0 -g  --coverage -Wl,--dependency-file=CMakeFiles/case1_copilot_tests.dir/link.d CMakeFiles/case1_copilot_tests.dir/tests/case1_trim/copilot_trim_test.cpp.o -o case1_copilot_tests  lib/libgtest_main.a lib/libgtest.a
+/usr/sbin/g++  --coverage -O0 -g  --coverage -Wl,--dependency-file=CMakeFiles/case1_copilot_tests.dir/link.d CMakeFiles/case1_copilot_tests.dir/tests/case1_trim/copilot_trim_test.cpp.o -o case1_copilot_tests  lib/libgtest_main.a lib/libgtest.a

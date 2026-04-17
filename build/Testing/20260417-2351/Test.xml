@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20260417-2351-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.31.11"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="DESKTOP-PT631DG"
+	OSRelease="6.6.87.2-microsoft-standard-WSL2"
+	OSVersion="#1 SMP PREEMPT_DYNAMIC Thu Jun  5 18:30:46 UTC 2025"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="94"
+	ModelName="Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz"
+	ProcessorCacheSize="6144"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="2048"
+	TotalPhysicalMemory="7899"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="3504"
+	>
+	<Testing>
+		<StartDateTime>Apr 17 18:51 CDT</StartDateTime>
+		<StartTestTime>1776469903</StartTestTime>
+		<TestList/>
+		<EndDateTime>Apr 17 18:51 CDT</EndDateTime>
+		<EndTestTime>1776469903</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
