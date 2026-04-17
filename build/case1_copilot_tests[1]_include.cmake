@@ -1,0 +1,5 @@
+if(EXISTS "/home/stevenrodriguez3886/copilot_evaluation/build/case1_copilot_tests[1]_tests.cmake")
+  include("/home/stevenrodriguez3886/copilot_evaluation/build/case1_copilot_tests[1]_tests.cmake")
+else()
+  add_test(case1_copilot_tests_NOT_BUILT case1_copilot_tests_NOT_BUILT)
+endif()
