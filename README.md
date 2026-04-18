@@ -23,11 +23,10 @@ Inside your new Fedora terminal, run these commands to install the required C++ 
 
 ```bash
 # Update the system
-sudo dnf update -y
+sudo dnf upgrade --refresh
 
 # Install compilers, build tools, and coverage metrics
-sudo dnf groupinstall "Development Tools" -y
-sudo dnf install cmake gcc-c++ boost-devel gcovr -y
+sudo dnf install gcc gcc-c++ make cmake gcovr boost-devel git
 ```
 
 ---
