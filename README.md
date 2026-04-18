@@ -1,6 +1,6 @@
 # GitHub Copilot QA Evaluation Prompts
 
-## Case 1: Trim (Person 1)
+## Case 1: Trim
 **Focus:** Equivalence Partitioning (EP) and Boundary Value Analysis (BVA)  
 **Target File:** `trim.hpp`
 
@@ -19,7 +19,7 @@ Constraints:
 
 ---
 
-## Case 2: Replace All (Person 2)
+## Case 2: Replace All
 **Focus:** Tricky Edge Cases and Strict Boundaries  
 **Target File:** `replace.hpp`
 
@@ -41,7 +41,7 @@ Constraints:
 
 ---
 
-## Case 3: Split (Person 3)
+## Case 3: Split
 **Focus:** Complex Logic and Combinations  
 **Target File:** `split.hpp`
 
