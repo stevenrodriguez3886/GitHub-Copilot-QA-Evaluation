@@ -1,0 +1,7 @@
+# Evaluating AI-Driven Test Generation: A Code Coverage Comparison Using Boost and GTest
+
+**Team Members:** Steven Rodriguez, Nicholas Boeker, Miguel Lopez, Denton Nuss
+
+As AI coding assistants become more ubiquitous, their role in Software Testing, Verification, and Validation (TV&V) requires critical examination. This presentation evaluates the efficacy of GitHub Copilot for automated C++ unit test generation. This evaluation is achieved by comparing the outputs generated against an industry-standard baseline. For this baseline we utilize the Boost C++ Libraries. While AI tools can rapidly produce boilerplate tests, a core TV&V challenge remains. Do these generated tests achieve the same rigorous code coverage and adequacy as human-engineered test suites?
+
+Our analysis focuses on specific, isolated components from Boost, we prompt Copilot to generate a Google Test suite, and we compare its statement and branch coverage against Boost’s official repository tests. We then analyze the AI’s output using foundational testing principles, including Equivalence Partitioning and Boundary Value Analysis, to determine if it successfully identifies critical edge cases or introduces redundant tests. This approach allows us to highlight AI’s practical strengths for accelerating test design while exposing any quality risks, errors, or limitations of the tool. Ultimately, this analysis demonstrates why human oversight remains indispensable for ensuring robust software integrity.
