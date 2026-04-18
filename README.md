@@ -86,10 +86,10 @@ Open the integrated Fedora terminal in VS Code and run:
 
 ```bash
 # Compile the project
-bash build.sh
+build.sh
 
 # Run tests and generate HTML reports
-bash generate_reports.sh
+generate_reports.sh
 ```
 
 > [!IMPORTANT]
