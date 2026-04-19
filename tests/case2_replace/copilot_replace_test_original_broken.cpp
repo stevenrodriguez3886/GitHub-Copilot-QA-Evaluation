@@ -228,7 +228,7 @@ TEST(ReplaceAllEdgeCases, ReplaceSpacesWithNonSpaces) {
 TEST(ReplaceAllEdgeCases, ReplaceNonSpacesWithSpaces) {
     std::string input = "hello";
     boost::algorithm::replace_all(input, "o", " ");
-    EXPECT_EQ("hell ", input);
+    EXPECT_EQ("hell  ", input);
 }
 
 // BVA: Input with only whitespace
